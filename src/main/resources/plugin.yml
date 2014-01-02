@@ -1,0 +1,4 @@
+name: MCCNWelcome
+main: co.mccn.mccnwelcome.MCCNWelcome
+version: ${project.version}
+depend: [BarAPI]
